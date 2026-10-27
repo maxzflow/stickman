@@ -1,0 +1,67 @@
+cue	img	text	pos	extra
+# hybrid: scene pictures + stickers popping on the spoken word + paper collage beats
+01.0	img/s01.jpg
+02.0	card
++02.0	elements/cut/01.png		0.22,0.5,0.55	pop
++02.4	elements/cut/03.png		0.5,0.52,0.42	pop
++02.7	elements/cut/02.png		0.78,0.52,0.42	pop
+03.0	img/s03.jpg
+04.0	img/s04.jpg
+05.0	img/s_rewind.jpg
++05.1	count	10000|YEARS AGO	auto,0.36	rise
+06.0	img/s05.jpg
+07.0	img/s06.jpg
+08.0	img/s07.jpg
+09.0	img/s08.jpg
++09.4	elements/cut/04.png	BACTERIA	auto,0.36	pop
++09.6	elements/cut/05.png	MOULD	auto,0.32	pop
+10.0	img/s09.jpg
+11.0	card	WEAPON 1:|THE SUN	big
+12.0	img/s10.jpg
++12.2	elements/cut/06.png		0.17,0.28,0.32	pop
++12.3	elements/cut/07.png		0.37,0.19,0.17	pop
+13.0	card	WEAPON 2:|FIRE	big
+14.0	img/s11.jpg
++14.10	elements/cut/09.png		auto,0.4	pop
+15.0	img/s12.jpg
++15.2	elements/cut/08.png		auto,0.36	pop
+16.0	img/s13.jpg
+17.0	card	AND HERE'S|THE STRANGE PART...	big
+18.0	card	MICROBES|VS|MICROBES	big
+19.0	img/s14.jpg	SOUTHERN SWEDEN	tr!
+19.3	img/s15.jpg
++19.12	count	9200|YEARS AGO	auto,0.36	rise
+20.0	img/s16.jpg
+21.0	card
++21.5	elements/cut/11.png		0.3,0.52,0.5	pop
++21.6	elements/cut/10.png		0.7,0.5,0.56	pop
+21.8	img/s17.jpg
+22.0	img/s18.jpg
+23.0	img/s19.jpg
++23.1	count	2400|YEARS AGO	auto,0.32	rise
++23.13	tag	YAKHCHAL	auto,0.28	pop
+24.0	img/s20.jpg
++24.6	elements/cut/12.png		auto,0.36	pop
+25.0	card	THEN, AN ARMY|CHANGED EVERYTHING.	big
+26.0	img/s21.jpg	FRANCE	tr!
+26.1	img/s22.jpg
+27.0	card
++27.5	elements/cut/15.png	A PRIZE	0.5,0.46,0.5	pop
+27.8	img/s23.jpg
++27.11	tag	NICOLAS APPERT	auto,0.26	pop
++27.20	elements/cut/13.png		auto,0.4	pop
+28.0	img/s24.jpg	PETER DURAND · 1810	top
++28.13	elements/cut/14.png		auto,0.38	pop
+29.0	card
++29.0	elements/cut/06.png	SUN	0.2,0.3,0.28	pop
++29.1	elements/cut/09.png	SMOKE	0.5,0.3,0.28	pop
++29.2	elements/cut/08.png	SALT	0.8,0.3,0.28	pop
++29.3	elements/cut/10.png	FERMENTING	0.2,0.74,0.28	pop
++29.4	elements/cut/12.png	ICE	0.5,0.74,0.28	pop
++29.5	elements/cut/13.png	SEALED JARS	0.8,0.74,0.28	pop
+30.0	img/s25.jpg
+31.0	img/s26.jpg
+32.0	img/s27.jpg
+32.8	card
++32.8	elements/cut/17.png		0.3,0.52,0.72	slideL
++32.10	elements/cut/16.png		0.7,0.5,0.66	slideR

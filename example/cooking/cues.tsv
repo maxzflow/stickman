@@ -1,0 +1,13 @@
+label	kind	file	at	dur	gain_db	fade_in	fade_out
+bed	loop	music/Gemini/explainer_lofi/explainer_lofi_01.mp3	0	all	-23	1.5	4
+notone	one	sfx/StableAudio/Emphasis/b2_paper_slam_a.mp3	@05	-	-18	0	0
+rewind	one	sfx/StableAudio/Archive/b2_film_rewind_a.mp3	Rewind-0.1	-	-20	0	0
+six	one	sfx/Kenney_CC0/PopClick/tick_001.ogg	six	-	-19	0	0
+strange	one	sfx/Kenney_CC0/Tonal/jingles_PIZZI04.ogg	strange	-	-21	0	0
+raw51	one	sfx/StableAudio/Map/b5_country_pop_a.mp3	half	-	-19	0	0
+ck91	one	sfx/StableAudio/Map/b5_country_pop_b.mp3	ninety	-	-19	0	0
+fire	one	sfx/StableAudio/Nature/b2_fire_crackle_a.mp3	@19	-	-22	0.2	1.2
+pin_sa	one	sfx/StableAudio/Map/b5_country_pop_c.mp3	South	-	-19	0	0
+clue	one	sfx/StableAudio/Data/b4_magnify_whoosh_a.mp3	clue	-	-20	0	0
+pin_de	one	sfx/StableAudio/Map/b5_country_pop_a.mp3	German	-	-19	0	0
+stove	one	sfx/StableAudio/Nature/b2_fire_crackle_b.mp3	stove	-	-24	0.1	1.5

@@ -1,0 +1,59 @@
+cue	img	text	pos	extra
+# hook: a cut every ~1.2 s, like the 14M-view reference
+01.0	img/s01.jpg			
+02.0	img/s02.jpg		bottom	
+02.1	img/s03.jpg		bottom	
+02.2	img/s04.jpg		bottom	
+02.3	img/s05.jpg		bottom	
+03.0	img/s06.jpg			
+04.0	img/s07.jpg		top	
+05.0	card	NOT ONE.	big	
+06.0	img/s08.jpg		top	
+07.0	img/s09.jpg	REWIND|2,000,000 YEARS	tr	
+08.0	img/s10.jpg		top	
+09.0	img/s11.jpg		bottom	
+09.1	img/s12.jpg		bottom	
+09.2	img/s13.jpg		bottom	
+09.3	img/s14.jpg		bottom	
+10.0	img/s15.jpg		top	
+11.0	img/s16.jpg		top	
+12.0	img/s17.jpg			
+12.4	img/s17.jpg	~6 HOURS A DAY	top	
+13.2	img/s18.jpg		top	
+14.0	img/s19.jpg	YOU: ~1 HOUR	top	
+15.0	card	AND HERE'S|THE STRANGE PART...	big	
+16.0	card	NOT JUST TIME...	big	
+16.6	img/s20.jpg		top	
+17.0	img/s21.jpg		top	
+17.10	img/s21.jpg		top	bars:RAW=51
+18.0	img/s22.jpg		top	bars:RAW=51
+18.8	img/s22.jpg		top	bars:RAW=51,COOKED=91
+19.0	img/s23.jpg		top	
+20.0	card	ONE HUNGRY ORGAN...	big	
+21.1	img/s24.jpg		top	
+22.2	img/s25.jpg	2% OF YOUR WEIGHT	tl	
+22.12	img/s25.jpg	2% OF YOUR WEIGHT|20% OF YOUR ENERGY	tl	
+23.0	img/s26.jpg		top	
+24.0	img/s27.jpg		top	
+25.0	card	THE OLDEST FIRE?	big	
+25.11	img/s29.jpg	WONDERWERK CAVE	top	
+25.14	img/s28.jpg	SOUTH AFRICA	tr	
+26.0	img/s30.jpg		top	
+26.5	img/s30.jpg	~1,000,000 YEARS OLD	top	
+27.0	img/s31.jpg			
+27.3	img/s31.jpg	RICHARD WRANGHAM|HARVARD	tr	
+27.7	card	COOKING STARTED|EVEN EARLIER?	big	
+27.12	card	...AND CHANGED|OUR BODIES	big	
+28.0	img/s32.jpg		bottom	
+28.2	img/s33.jpg		bottom	
+28.5	img/s34.jpg		bottom	
+29.0	img/s35.jpg			
+30.0	img/s36.jpg		top	
+31.0	img/s37.jpg	GERMANY	tr	
+31.7	img/s38.jpg		top	
+32.0	img/s39.jpg	NEARLY 1 IN 3 WOMEN	top	
+33.0	img/s40.jpg		bottom	
+34.0	img/s41.jpg			
+35.0	img/s42.jpg			
+36.0	img/s43.jpg			
+37.0	img/s44.jpg			

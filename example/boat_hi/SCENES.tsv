@@ -1,0 +1,65 @@
+cue	img	text	pos	extra
+# boat-hi: food-style hybrid; full natural scenes, stickers in quiet spots or on collage cards, English text on cards only
+01.0	img/s01.jpg			
++01.9	elements/cut/01.png		auto,0.28	pop
+01.13	card			
++01.14	elements/cut/02.png		0.5,0.5,0.5	pop
+02.0	img/s02.jpg			
+03.0	img/s03.jpg			
+03.5	card	WATER WAS|A WALL	big	
+04.0	img/s04.jpg			
++04.5	elements/cut/04.png		0.86,0.24,0.24	pop
++04.8	elements/cut/05.png		0.72,0.62,0.2	pop
+04.10	img/s03.jpg			
+05.0	card	SO HOW DID HUMANS|BUILD THE FIRST BOAT?	big	
++05.4	elements/cut/22.png		0.5,0.82,0.2	pop
+06.0	img/s05.jpg			
+07.0	card			
++07.4	elements/cut/06.png		0.5,0.5,0.5	pop
+07.7	img/s06.jpg			
+09.0	img/s07.jpg			
++09.6	elements/cut/07.png		auto,0.26	pop
+09.11	card			
++09.11	elements/cut/08.png		0.5,0.5,0.52	pop
+10.0	card	AND HERE'S|A SURPRISE...	big	
+11.0	img/s09.jpg			
++11.0	elements/cut/10.png		0.72,0.72,0.26	pop
+11.3	card			
++11.3	count	50000|YEARS AGO	0.5,0.5,0.44	rise
+12.0	img/s08.jpg			
+13.0	img/s10.jpg			
+14.0	card	THEN CAME|A BIG TRICK.	big	
+15.0	img/s11.jpg			
+16.0	card			
++16.0	elements/cut/11.png		0.32,0.5,0.44	pop
++16.4	elements/cut/12.png		0.68,0.5,0.4	pop
+17.0	img/s12.jpg			
+18.0	img/s14.jpg			
++18.3	elements/cut/13.png		0.55,0.09,0.15	pop
+18.3	img/s13.jpg			
+18.5	card			
++18.6	count	10000|YEARS OLD	0.5,0.5,0.44	rise
+19.0	img/s13.jpg			
+19.5	card	THE OLDEST BOAT|STILL AROUND	big	
+20.0	card	NO BIG TREES?	big	
+21.0	img/s15.jpg			
++21.7	elements/cut/14.png		auto,0.28	pop
+21.14	img/s16.jpg			
+22.0	img/s17.jpg			
+22.9	img/s18.jpg			
+23.0	card	THEN CAME|THE SAIL!	big	
++23.2	elements/cut/17.png		0.5,0.82,0.2	pop
+24.0	img/s19.jpg			
++24.0	elements/cut/18.png		auto,0.28	pop
+25.0	img/s20.jpg			
++25.5	elements/cut/19.png		auto,0.28	pop
+26.0	card			
++26.0	elements/cut/06.png		0.12,0.5,0.24	pop
++26.1	elements/cut/08.png		0.32,0.5,0.24	pop
++26.2	elements/cut/13.png		0.52,0.5,0.24	pop
++26.3	elements/cut/15.png		0.7,0.5,0.24	pop
++26.6	elements/cut/17.png		0.88,0.5,0.26	pop
+27.0	img/s22.jpg			
++27.8	elements/cut/03.png		auto,0.26	pop
+28.0	img/s21.jpg			
+28.6	card	IT ALL STARTED WITH|A FLOATING LOG	big	

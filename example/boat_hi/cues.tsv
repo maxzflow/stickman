@@ -1,0 +1,15 @@
+label	kind	file	at	dur	gain_db	fade_in	fade_out
+bed	loop	music/Gemini/explainer/explainer_01.mp3	0	all	-23	1.5	4
+ticket	one	sfx/Kenney_CC0/Paper/card-place-1.ogg	टिकट	-	-25	0	0
+wall	one	sfx/StableAudio/Emphasis/b2_hit_soft_a.mp3	दीवार	-	-20	0	0
+q	one	sfx/Kenney_CC0/Paper/card-place-2.ogg	@05	-	-25	0	0
+splash	one	sfx/Kenney_CC0/Paper/card-place-1.ogg	तैरती	-	-25	0	0
+surprise	one	sfx/Kenney_CC0/Paper/card-place-2.ogg	@10	-	-25	0	0
+aus	one	sfx/Kenney_CC0/Paper/card-place-1.ogg	ऑस्ट्रेलिया	-	-25	0	0
+trick	one	sfx/StableAudio/Emphasis/b2_paper_slam_a.mp3	@14	-	-20	0	0
+fire	one	sfx/StableAudio/Nature/b2_fire_crackle_a.mp3	आग	-	-24	0.1	0.8
+nl	one	sfx/Kenney_CC0/Paper/card-place-2.ogg	नीदरलैंड्स	-	-25	0	0
+egypt	one	sfx/Kenney_CC0/Paper/card-place-1.ogg	मिस्र	-	-25	0	0
+sail	one	sfx/StableAudio/Emphasis/b2_paper_slam_b.mp3	@23	-	-20	0	0
+wind	one	sfx/StableAudio/Nature/b2_wind_gust_a.mp3	हवा	-	-25	0.1	0.8
+p1	one	sfx/Kenney_CC0/Paper/card-place-2.ogg	@26	-	-25	0	0

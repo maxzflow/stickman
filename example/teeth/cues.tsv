@@ -1,0 +1,12 @@
+label	kind	file	at	dur	gain_db	fade_in	fade_out
+bed	loop	music/Gemini/explainer/explainer_01.mp3	0	all	-23	1.5	4
+rewind	one	sfx/StableAudio/Archive/b2_film_rewind_a.mp3	Rewind-0.1	-	-20	0	0
+shot	one	sfx/Kenney_CC0/Tonal/jingles_PIZZI04.ogg	shot	-	-21	0	0
+part	one	sfx/StableAudio/Emphasis/b2_paper_slam_a.mp3	@13	-	-19	0	0
+italy	one	sfx/StableAudio/Map/b5_country_pop_a.mp3	northern	-	-19	0	0
+slov	one	sfx/StableAudio/Map/b5_country_pop_b.mp3	Slovenia	-	-19	0	0
+wax	one	sfx/Kenney_CC0/PopClick/pluck_001.ogg	filling	-	-20	0	0
+twig	one	sfx/Kenney_CC0/PopClick/click1.ogg	twig	-	-19	0	0
+worm	one	sfx/Kenney_CC0/Tonal/jingles_PIZZI02.ogg	worm	-	-21	0	0
+noworm	one	sfx/StableAudio/Emphasis/b2_hit_soft_a.mp3	@27	-	-19	0	0
+china	one	sfx/StableAudio/Map/b5_country_pop_c.mp3	China	-	-19	0	0

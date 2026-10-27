@@ -1,0 +1,22 @@
+id	ref	prompt	space	flip
+01	modern	The modern man wakes up in bed in a bright morning bedroom, sunlight through the curtains, reaching for his phone on the bedside table, sleepy face.	right	
+02	modern	Close view of the modern man looking at his phone screen in the morning, relaxed smile, bright bedroom behind.	left	
+03	caveman	The caveman stands in an open prehistoric landscape at dawn, looking around puzzled, no tools in his hands, wide sky.	top	
+04	caveman	The caveman points up at the bright sun rising over green hills, a family of cavemen beside him looking up too, clear blue sky.	-	
+05	caveman	A caveman camp at midday with the sun high overhead and very short shadows under everyone, bright blue sky.	right	
+06	caveman	The caveman sits on a hill at sunset watching the orange sun go down behind the mountains, warm sky.	left	yes
+07	caveman	The caveman lies on the grass at night looking at a big full moon and stars, peaceful, blue night sky.	-	
+08	caveman	The caveman squats beside a straight wooden stick pushed into the ground, studying its long morning shadow, bright sunny plain.	right	
+09	caveman	The same stick in the ground at midday with a very short shadow, the caveman kneeling and marking the shadow tip with a pebble, other pebbles in an arc.	left	yes
+10	-	An ancient Egyptian stone sundial on a sandy courtyard with its shadow falling across carved hour marks, palm trees and a pyramid far behind, bright sun, no people.	-	
+11	caveman	The caveman frowns at his stick shadow clock as dark grey clouds cover the sun, the shadow gone, gloomy sky.	left	yes
+12	modern	An ancient Egyptian priest in the same round-head style, white linen and shaved head, beside a tall stone bowl that drips water from a tiny hole near its bottom into a basin, temple courtyard.	right	
+13	-	Close-up of a tall ancient stone water-clock vessel standing on a temple floor, carved level lines on its inner wall, water dripping from a tiny hole near its base into a small basin, warm daylight, no people.	-	
+14	modern	An ancient Indian scholar in the same round-head style, white dhoti, tilak and sacred thread, sits in a courtyard watching a small copper bowl with a hole slowly sinking in a large water pot, sunlight.	left	
+15	modern	A Chinese scholar in the same round-head style, blue robe and black cap, beside a burning incense clock in a quiet courtyard at dusk, a thin smoke line rising, paper lanterns.	top	
+16	modern	A European monk in the same round-head style, brown habit, in a stone monastery at night lighting a tall candle with painted hour bands, warm candlelight.	-	
+17	modern	A sailor in the same round-head style on the deck of an old wooden sailing ship at sea, turning a large sand hourglass, waves and blue sky.	right	
+18	modern	A medieval European town square with a tall church tower that has a large bell clock with no hands, townspeople in the same round-head style looking up as the bell rings.	top	
+19	modern	Inside a medieval clock tower: big wooden and iron gears and weights turning, a clockmaker in the same round-head style oiling them.	right	
+20	modern	The modern man in the evening on his sofa, looking thoughtfully at the time on his phone, a warm lamp beside him.	left	
+21	sheet	A line-up from left to right across a landscape that changes from prehistoric hills to a modern bedroom: the caveman pointing at the sun, an Egyptian sundial, an Indian scholar with a water bowl, a sand hourglass, a church bell tower, and the modern man holding a phone, small arrows between them, blue sky.	-	

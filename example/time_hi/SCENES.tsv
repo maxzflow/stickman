@@ -1,0 +1,78 @@
+cue	img	text	pos	extra
+# time-hi: Hindi voice, English text only on cards; stickers only in each picture's calm side
+01.0	img/s01.jpg			
++01.1	elements/cut/02.png		auto,0.3	pop
+01.6	img/s02.jpg			
+02.0	card	7:02 AM	big	
++02.4	elements/cut/01.png		0.5,0.82,0.2	pop
+03.0	img/s03.jpg			
++03.2	elements/cut/20.png		auto,0.26	pop
++03.9	elements/cut/04.png		auto,0.28	pop+plain
++03.12	elements/cut/03.png		auto,0.28	pop+plain
+04.0	card	SO HOW DID PEOPLE|TELL TIME?	big	
++04.3	elements/cut/25.png		0.5,0.8,0.2	pop
+05.0	card			
++05.3	elements/cut/05.png		0.5,0.5,0.5	pop
+06.0	img/s04.jpg			
+06.5	img/s05.jpg			
++06.6	elements/cut/05.png		auto,0.28	pop
+06.10	img/s06.jpg			
++06.11	elements/cut/07.png		auto,0.28	pop
+07.0	img/s07.jpg			
+07.4	card			
++07.5	elements/cut/10.png		0.5,0.5,0.4	pop
++07.8	elements/cut/08.png		0.18,0.5,0.3	pop
++07.12	elements/cut/09.png		0.82,0.5,0.3	pop
+08.0	card	THAT'S HOW|THE MONTH WAS BORN	big	
+09.0	img/s08.jpg			
++09.5	elements/cut/25.png		auto,0.24	pop
+10.0	img/s09.jpg			
++10.6	elements/cut/11.png		auto,0.3	pop
+11.0	img/s08.jpg			
++11.2	elements/cut/05.png		auto,0.26	pop
+12.0	card	THE FIRST CLOCK:|THE SUNDIAL	big	
++12.7	elements/cut/13.png		0.5,0.82,0.2	pop
+13.0	img/s10.jpg			
+13.2	card			
++13.3	count	3500|YEARS AGO	0.68,0.5,0.4	rise
++13.8	elements/cut/13.png		0.3,0.5,0.46	pop
+14.0	card	BUT THERE'S|A CATCH...	big	
+15.0	img/s11.jpg			
++15.0	elements/cut/14.png		auto,0.3	pop
++15.4	elements/cut/09.png		auto,0.24	pop
+16.0	card			
++16.3	elements/cut/15.png		0.5,0.5,0.4	pop
+17.0	img/s12.jpg			
++17.1	elements/cut/16.png		auto,0.3	pop
++17.9	elements/cut/15.png		auto,0.22	pop
+18.0	img/s13.jpg			
+19.0	img/s14.jpg			
++19.3	elements/cut/17.png		auto,0.28	pop
+20.0	card			
++20.1	elements/cut/17.png		0.5,0.5,0.46	pop
+20.12	card	1 GHATI|≈ 24 MINUTES	big	
+21.0	img/s15.jpg			
++21.5	elements/cut/18.png		auto,0.3	pop
+22.0	img/s16.jpg			
+22.5	card			
++22.5	elements/cut/19.png		0.5,0.5,0.56	pop
+23.0	img/s17.jpg			
++23.2	elements/cut/20.png		auto,0.3	pop
++23.13	elements/cut/15.png		auto,0.22	pop
+24.0	card	THEN,|A BIG CHANGE.	big	
+25.0	img/s18.jpg			
++25.12	elements/cut/23.png		auto,0.28	pop
+26.0	img/s19.jpg			
++26.5	elements/cut/22.png		auto,0.3	pop
+27.0	img/s18.jpg			
+28.0	card			
++28.0	elements/cut/05.png		0.2,0.3,0.28	pop
++28.1	elements/cut/08.png		0.5,0.3,0.28	pop
++28.2	elements/cut/15.png		0.8,0.3,0.26	pop
++28.3	elements/cut/18.png		0.2,0.72,0.26	pop
++28.4	elements/cut/20.png		0.5,0.72,0.28	pop
++28.6	elements/cut/22.png		0.8,0.72,0.28	pop
+29.0	img/s20.jpg			
++29.5	elements/cut/01.png		auto,0.3	pop
+30.0	img/s21.jpg			
+30.4	card	THOUSANDS OF YEARS|IN ONE SMALL NUMBER	big	

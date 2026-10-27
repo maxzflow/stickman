@@ -1,0 +1,105 @@
+cue	img	text	pos	extra
+# Hindi film, re-paced: a visual change on the spoken word every ~1-2 s in the hook, never a hold over ~3.5 s
+01.0	img/s01.jpg
+01.6	img/s02.jpg
+02.0	card
++02.3	elements/cut/01.png		0.22,0.5,0.55	pop
++02.6	elements/cut/03.png		0.5,0.52,0.42	pop
++02.8	elements/cut/02.png		0.78,0.52,0.42	pop
+03.0	card
++03.2	elements/cut/16.png		0.5,0.5,0.62	pop+x
+03.9	img/s03.jpg
++03.11	tag	1-2|दिन	auto,0.3	pop
++03.14	elements/cut/05.png		auto,0.32	pop
+04.0	img/s04.jpg
+04.6	card
++04.7	elements/cut/16.png		0.14,0.5,0.4	pop+x
++04.10	elements/cut/12.png		0.38,0.5,0.32	pop+x
++04.12	elements/cut/19.png		0.62,0.5,0.34	pop+x
++04.14	elements/cut/14.png		0.86,0.5,0.34	pop+x
+05.0	img/s_rewind.jpg
++05.1	count	10000|साल पहले	auto,0.36	rise
+06.0	img/s05.jpg
+07.0	img/s06.jpg
++07.6	elements/cut/05.png		auto,0.32	pop
+08.0	img/s07.jpg
++08.8	elements/cut/20.png		0.14,0.26,0.3	pop
+09.0	img/s08.jpg
++09.4	elements/cut/04.png	बैक्टीरिया	auto,0.36	pop
++09.6	elements/cut/05.png	फफूंद	auto,0.32	pop
+09.9	card
++09.9	elements/cut/06.png		0.5,0.52,0.5	pop
++09.10	elements/cut/04.png		0.22,0.48,0.4	slideL
++09.11	elements/cut/05.png		0.78,0.48,0.4	slideR
+10.0	img/s09.jpg
+11.0	card	पहला हथियार|सूरज	big
+12.0	img/s10.jpg
++12.0	elements/cut/06.png		0.17,0.28,0.32	pop
++12.1	elements/cut/07.png		0.37,0.19,0.17	pop
+12.13	card
++12.13	elements/cut/04.png		0.32,0.5,0.5	pop
++12.18	elements/cut/23.png		0.68,0.5,0.4	pop+x
+13.0	card	दूसरा हथियार|आग	big
+14.0	img/s11.jpg
++14.10	elements/cut/09.png		auto,0.4	pop
++14.19	elements/cut/04.png		0.18,0.26,0.28	pop+x
+15.0	img/s12.jpg
++15.2	elements/cut/08.png		auto,0.36	pop
+16.0	img/s13.jpg
++16.3	elements/cut/23.png		auto,0.26	pop
++16.7	elements/cut/07.png		0.62,0.16,0.18	pop
++16.17	elements/cut/27.png		0.12,0.2,0.26	pop
+17.0	card	और यहीं से कहानी|दिलचस्प हो जाती है...	big
+18.0	card
++18.6	elements/cut/24.png		0.27,0.5,0.5	slideL
++18.7	tag	बनाम	0.5,0.5,0.24	pop
++18.9	elements/cut/04.png		0.73,0.5,0.5	slideR
+19.0	img/s14.jpg	दक्षिणी स्वीडन	tr!
+19.3	img/s15.jpg
++19.11	count	9200|साल पहले	auto,0.36	rise
+20.0	img/s16.jpg
++20.2	elements/cut/24.png		auto,0.3	pop
++20.13	elements/cut/25.png		auto,0.3	pop
++20.19	elements/cut/04.png		0.86,0.72,0.26	pop+x
+21.0	card
++21.3	elements/cut/11.png		0.2,0.52,0.42	pop
++21.4	elements/cut/10.png		0.5,0.5,0.46	pop
++21.6	elements/cut/26.png		0.8,0.52,0.4	pop
+22.0	img/s18.jpg
+23.0	img/s19.jpg
++23.1	count	2400|साल पहले	auto,0.32	rise
++23.8	tag	प्राचीन फ़ारस	auto,0.26	pop
++23.20	tag	यख़चाल	auto,0.28	pop
+24.0	img/s20.jpg
++24.3	elements/cut/12.png		auto,0.36	pop
++24.14	elements/cut/21.png		auto,0.3	pop
+25.0	card	फिर, एक सेना ने|सब कुछ बदल दिया।	big
+26.0	img/s21.jpg	फ़्रांस	tr!
+26.2	img/s22.jpg
+27.0	card
++27.2	elements/cut/15.png	इनाम	0.5,0.46,0.5	pop
+27.5	img/s23.jpg
++27.9	tag	निकोला एपेर	auto,0.26	pop
++27.20	elements/cut/13.png		auto,0.36	pop
++27.26	elements/cut/29.png		auto,0.34	pop
+28.0	img/s24.jpg
++28.4	tag	पीटर ड्यूरंड|1810	auto,0.3	pop
++28.13	elements/cut/14.png		auto,0.36	pop
+29.0	card
++29.0	elements/cut/06.png	धूप	0.2,0.3,0.28	pop
++29.1	elements/cut/09.png	धुआँ	0.5,0.3,0.28	pop
++29.2	elements/cut/08.png	नमक	0.8,0.3,0.28	pop
++29.3	elements/cut/10.png	फ़र्मेंटेशन	0.2,0.74,0.28	pop
++29.4	elements/cut/12.png	बर्फ़	0.5,0.74,0.28	pop
++29.5	elements/cut/13.png	बंद जार	0.8,0.74,0.28	pop
+30.0	img/s25.jpg
++30.5	tag	एक ही काम	auto,0.26	pop
++30.10	elements/cut/04.png		auto,0.3	pop+x
++30.14	elements/cut/01.png		auto,0.3	pop
+31.0	img/s26.jpg
++31.10	elements/cut/30.png		auto,0.3	pop
+32.0	img/s27.jpg
++32.1	count	10000|साल पुरानी जंग	0.5,0.13,0.26	rise
+32.12	card
++32.12	elements/cut/17.png		0.3,0.52,0.72	slideL
++32.16	elements/cut/16.png		0.7,0.5,0.66	slideR
